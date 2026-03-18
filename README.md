@@ -3,12 +3,13 @@
 ## Project Overview
 This project analyzes Google Ads campaign performance across 6 months (July–November).  
 The goal is to evaluate profitability, customer behavior, and campaign efficiency.
+(for fully analysis check the report file)
 
 ---
 
 ## Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
-- Power BI
+- Power BI (check Dashboard for interaction)
 - Jupyter Notebook
 
 ---
